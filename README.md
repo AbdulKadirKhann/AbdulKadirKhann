@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulKadirKhann
-- 👀 I’m interested in building amazing full stack apps using MEAN, MERN, MEVN Stack
-- 🌱 I’m currently learning Vue JS
-- 💞️ I’m looking to collaborate on VueJS
+- 👀 I’m interested in building Web Apps and Teaching.
+- 🌱 I’m currently learning VueJS
 - 📫 How to reach me kadirkhan12373@gmail.com
 
 <!---
